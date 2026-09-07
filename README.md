@@ -19,9 +19,3 @@ An AI-powered document question-answering system using LangChain, OpenAI, and se
 - pip (Python package manager)
 - OpenAI API key
 
-## 🚀 Quick Start
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/smart-document-qa-bot.git
-cd smart-document-qa-bot
